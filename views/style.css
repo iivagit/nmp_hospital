@@ -1,0 +1,21 @@
+    .div_common {
+        float: left;
+        margin: 15px;
+    }
+
+    .div_tree
+    {
+        width: 500px;
+        height: 700px;
+        border-top: solid 1px #BBB;
+        border-left: solid 1px #BBB;
+        border-bottom: solid 1px #FFF;
+        border-right: solid 1px #FFF;
+        background: #FFF;
+        overflow: scroll;
+        padding: 5px;
+    }
+
+    .wrapper {
+        text-align: center;
+    }
